@@ -1,2 +1,6 @@
 joblib
-
+plotly
+streamlit
+pandas
+numpy
+os
